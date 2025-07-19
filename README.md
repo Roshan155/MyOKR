@@ -17,7 +17,7 @@ Users can register, log in, and manage their OKRs — including creating, updati
 
 ## 🔗 Live Demo
 
-> 🌐 Hosted Link: [https://your-hosted-url.com](https://your-hosted-url.com)
+> 🌐 Hosted Link:(https://roshan155.github.io/MyOKR/))
 
 ---
 
